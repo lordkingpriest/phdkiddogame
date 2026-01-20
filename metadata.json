@@ -1,0 +1,7 @@
+{
+  "name": "PhD Kids",
+  "description": "A fun, quest-based educational adventure where children ages 5–12 learn through exciting missions across math, reading, science, puzzles, and Bible studies, all while exploring colorful worlds and completing rewarding challenges.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
